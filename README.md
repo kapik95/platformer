@@ -1,4 +1,5 @@
 # Platformer (working title)
+Целью проекта является разработка мобильной игры для платформы android. В игре будет реализовано игровое меню, первый уровень(возможно больше), система пройгрыша, сенсорное управление, враги.
 # Game prototype:
 ![](https://github.com/kapik95/platformer/blob/44164fe1c833bdaa94181c3f470a5c3d19dbd789/nFGcCKerZN.gif)
 <br>Данная игра находится в разработке. На данный момент реализованно первичное управление персонажем, движение игровой камеры за игроком и частичная логика поведения врага.
@@ -11,3 +12,10 @@
 # Development team:
 <a href="https://vk.com/eldarnt">3d artist</a>
 <br><a href="https://vk.com/gomonec">game developer</a>
+# Gratitude:
+Наша команда является новичком в мире разработки игр и выражает благодарность ресурсам предоставевшим информационную поддержку:
+<br>1. <a href="https://www.youtube.com/channel/UCUEQBzSZx65-FcVwce8HYNQ">Роман Сакутин - GameDev</a>
+<br>2. <a href="https://www.youtube.com/channel/UCSNPJHBDUrSguA5ABlviOzQ">Eccentric Games</a>
+<br>3. <a href="https://www.youtube.com/channel/UC6wnai488mwec_FUVfdl84w">Emerald Powder</a>
+<br>4. <a href="https://ru.stackoverflow.com/">Stack Overflow на русском</a>
+<br>5. <a href="https://kaino.online/">Kaino University Blender 2.0</a>
