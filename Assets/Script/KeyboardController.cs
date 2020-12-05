@@ -30,7 +30,7 @@ public class KeyboardController : MonoBehaviour, IBeginDragHandler
             {
                 PlayerControll.MoveLeft();
             }
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetKey(KeyCode.Space))
             {
                 PlayerControll.Jump();
             }
