@@ -19,3 +19,4 @@
 <br>3. <a href="https://www.youtube.com/channel/UC6wnai488mwec_FUVfdl84w">Emerald Powder</a>
 <br>4. <a href="https://ru.stackoverflow.com/">Stack Overflow на русском</a>
 <br>5. <a href="https://kaino.online/">Kaino University Blender 2.0</a>
+<a href="https://gifyu.com/image/CIdL"><img src="https://s8.gifyu.com/images/VIDEO-24-12-2020-032206_1.gif" alt="VIDEO-24-12-2020-032206_1.gif" border="0" /></a>
